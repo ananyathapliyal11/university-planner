@@ -1,7 +1,7 @@
 # University Planner (Python)
 
 ## Description
-A command-line based university planner that helps students manage
+A university planner that helps students manage
 subjects, attendance, assignments, and class schedules.
 
 ## Features
